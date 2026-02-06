@@ -1,4 +1,4 @@
-# 📊 Previsão de Score de Crédito com Machine Learning
+#  Previsão de Score de Crédito com Machine Learning
 
 ## 📌 Sobre o Projeto
 
@@ -8,7 +8,7 @@ A aplicação realiza o tratamento dos dados, o treinamento de modelos preditivo
 
 ---
 
-## 🎯 Objetivo
+##  Objetivo
 
 Aplicar conceitos iniciais de **Machine Learning e Ciência de Dados**, incluindo:
 
@@ -20,7 +20,7 @@ Aplicar conceitos iniciais de **Machine Learning e Ciência de Dados**, incluind
 
 ---
 
-## 🧠 Descrição do Código
+##  Descrição do Código
 
 O código foi desenvolvido em um **Jupyter Notebook** e segue as seguintes etapas:
 
@@ -34,7 +34,7 @@ O código foi desenvolvido em um **Jupyter Notebook** e segue as seguintes etapa
 
 ---
 
-## ⚙️ Funcionalidades
+##  Funcionalidades
 
 - Leitura de arquivos CSV  
 - Preparação e tratamento dos dados  
@@ -44,7 +44,7 @@ O código foi desenvolvido em um **Jupyter Notebook** e segue as seguintes etapa
 
 ---
 
-## 🧪 Saída Esperada
+##  Saída Esperada
 
 Ao executar o notebook, o sistema exibe no console a acurácia dos modelos treinados e as previsões de score de crédito para novos clientes, conforme exemplo abaixo:
 
